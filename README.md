@@ -18,7 +18,29 @@ Topics covered by the above include:
 - Parsing MATPOWER or PSS/e Files
 - Adding an Operating Cost
 - Working with Time Series Data
- 
+
+### Getting Started with Running Julia
+
+Please start by reading the following introductory sections of [Modern Julia Workflows](https://modernjuliaworkflows.org/) on how to start [running code](https://modernjuliaworkflows.org/writing/) in the Julia language:
+
+(Ignore any red highlighted sections for now - they are for advanced use.)
+
+- [Getting Help](https://modernjuliaworkflows.org/writing/#getting_help)
+- [Installation](https://modernjuliaworkflows.org/writing/#installation)
+- [REPL](https://modernjuliaworkflows.org/writing/#repl)
+- [Editor](https://modernjuliaworkflows.org/writing/#editor)
+- [Running code](https://modernjuliaworkflows.org/writing/#running_code)
+
+#### Learning Julia Language Basics
+
+Once you have finished working through Getting Started with Running Julia, you can start learning about writing Julia code by running and modifying the Jupyter notebook `Tutorial.ipynb` in the [julia-mit](https://github.com/mitmath/julia-mit) repository.
+
+The [README file](https://github.com/mitmath/julia-mit/blob/master/README.md) in that repository describes [how to set up Julia with Jupyter](https://github.com/mitmath/julia-mit/blob/master/README.md#installing-julia-and-ijulia-on-your-own-computer).
+
+You can also do some introductory learning by:
+- reading and doing the simple examples in [Getting started with Julia](https://jump.dev/JuMP.jl/stable/tutorials/getting_started/getting_started_with_julia/)
+- reading Chapter 2 of [_Practical Julia_](https://nostarch.com/practical-julia), working through the examples by using the Julia REPL terminal interface. The file of Chapter 2 will be made available on request.
+
 ### Description of the Sienna Modelling Framework 
 
 Please have a look at the following talk slides and recordings from NREL:
@@ -38,22 +60,5 @@ NREL has released video tutorials that focus on introducing the basic structure 
 - Episode 7: Sienna\Data -- Operating Cost Data
 - Episode 8: Sienna\Data -- Dynamics Data
 
-### Getting Started with Running Julia
-
-Please start by reading the following introductory sections of [Modern Julia Workflows](https://modernjuliaworkflows.org/) on how to start [running code](https://modernjuliaworkflows.org/writing/) in the Julia language:
-
-(Ignore any red highlighted sections for now - they are for advanced use.)
-
-- [Getting Help](https://modernjuliaworkflows.org/writing/#getting_help)
-- [Installation](https://modernjuliaworkflows.org/writing/#installation)
-- [REPL](https://modernjuliaworkflows.org/writing/#repl)
-- [Editor](https://modernjuliaworkflows.org/writing/#editor)
-- [Running code](https://modernjuliaworkflows.org/writing/#running_code)
-
-#### Learning Julia Language Basics
-
-Once you have finished working through Getting Started with Running Julia, you can start learning about writing Julia code by:
-- reading and doing the simple examples in [Getting started with Julia](https://jump.dev/JuMP.jl/stable/tutorials/getting_started/getting_started_with_julia/)
-- reading Chapter 2 of [_Practical Julia_](https://nostarch.com/practical-julia), working through the examples by using the Julia REPL terminal interface. The file of Chapter 2 will be made available on request.
 
  
