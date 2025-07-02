@@ -60,5 +60,15 @@ NREL has released video tutorials that focus on introducing the basic structure 
 - Episode 7: Sienna\Data -- Operating Cost Data
 - Episode 8: Sienna\Data -- Dynamics Data
 
+with more to be added...
 
+### Production Cost Modelling (PCM) example: [PSI-Cambodia](https://github.com/NREL-Sienna/PSI-Cambodia)
+
+The NREL Sienna teams has a worked example on Production Cost Modelling using an example system based on Cambodia's national grid.
+
+Introduction slides to PCM and the system model are found in the PSI-Cambodia repository here: [slides link](https://github.com/NREL-Sienna/PSI-Cambodia/blob/b4597d902b612c81ee5550bbe4424d696c0fa335/Presentations/Aug_2020_USAID-OpenSource-Webinar.pdf)
+
+A notebook (_PSI_Cambodia.ipynb_) running the example is included in a directory in this repository adapted from [PSI-Cambodia](https://github.com/NREL-Sienna/PSI-Cambodia); see 
+
+_MY-Training/PSI-Cambodia-example-2025-06-30/_
  
