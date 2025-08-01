@@ -1,0 +1,5 @@
+https://web.archive.org/web/20220526181951/https://www.nrel.gov/esif/assets/docs/plexos-export.xls
+https://web.archive.org/web/20210715063430/https://www.nrel.gov/esif/assets/docs/additional-files-mti-118.zip
+https://web.archive.org/web/20240415151125/https://www.nrel.gov/esif/assets/docs/input-files.zip
+https://web.archive.org/web/20211201000000*/http://www.nrel.gov/esif/assets/docs/mti-118-mt-da-rt-reserves-all-generators.xml
+
